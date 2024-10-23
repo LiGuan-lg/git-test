@@ -18,5 +18,6 @@ public class GitTest {
         System.out.println("Hello hot-fix!");
         System.out.println("master 冲突前commit!");
         System.out.println("hot-fix 冲突前commit!");
+        System.out.println("push test");
     }
 }
